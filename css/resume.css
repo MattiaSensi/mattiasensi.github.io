@@ -40,7 +40,7 @@ h2 {
 .list-social-icons a {
   color: #495057; }
   .list-social-icons a:hover {
-    color: #BD5D38; }
+    color: #38BD5D; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
@@ -70,7 +70,7 @@ h2 {
       #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: 0.5rem solid rgba(102, 255, 153, 0.2); }
+        border: 0.5rem solid rgba(255, 255, 255, 0.2); }
     #sideNav .navbar-collapse {
       display: flex;
       align-items: flex-start;
@@ -104,12 +104,12 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+  background-color: #38BD5D !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: #38BD5D !important; }
 
 a {
-  color: #BD5D38; }
+  color: #38BD5D; }
   a:hover, a:focus, a:active {
     color: #824027; }
